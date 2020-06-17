@@ -1,0 +1,32 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+}
+h1{
+  text-align: center
+}
+
+.flex-container input {
+  background-color: #f1f1f1;
+  width: 400px;
+  margin: 10px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.flex-container button {
+  width: 100px;
+  border-radius: 5px;
+  margin: 5px auto;
+  font-size: 20px;
+  background-color: HotPink;
+}
+.flex-container ul.list {
+  background-color: #f1f1f1;
+  width:100%
+}
+.flex-container span  {
+    display:inline-block;
+    width:33%
+  }
