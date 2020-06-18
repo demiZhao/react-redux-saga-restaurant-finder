@@ -1,10 +1,18 @@
+div.container {
+ padding: 0 100px;
+}
 .flex-container {
   display: flex;
   flex-wrap: wrap;
   font-size: 20px;
+  padding: 0 50px;
 }
 h1{
-  text-align: center
+  text-align: center;
+}
+
+.flex-container div.city, div.filter {
+  margin-right: 50px;
 }
 
 .flex-container input {
@@ -18,7 +26,6 @@ h1{
 .flex-container button {
   width: 100px;
   border-radius: 5px;
-  margin: 5px auto;
   font-size: 20px;
   background-color: HotPink;
 }
