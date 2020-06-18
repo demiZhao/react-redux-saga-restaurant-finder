@@ -11,11 +11,11 @@
   }
   ``` 
 3. How would you track down a performance issue in production? Have you ever had to do this?
-  * Check Profiling, network, Bundle analyzer check for any bottle neck or unnecessary rerendering; 
+  * Check Profiling, network, Bundle analyzer for any bottleneck or unnecessary rerender; 
   * Not too much production support experience;
 
 4. How would you improve the API that you just used?
-  * API doesn't have information such as Dinner/Lunch, Rating as requirement ;
+  * API doesn't have information such as Dinner/Lunch, Rating as mentioned in the user story ;
 
 5. Please describe yourself using JSON.
 ```javascript
