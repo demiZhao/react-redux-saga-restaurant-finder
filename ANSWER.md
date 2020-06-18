@@ -4,7 +4,6 @@
 
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
   * Redux Saga 
-  * 
   ```javascript
   function\* actionWatcher() {
   yield takeLatest('GET_RESTAURANTS', fetchRestaurants)
