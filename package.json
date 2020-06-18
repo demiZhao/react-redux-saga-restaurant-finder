@@ -1,6 +1,6 @@
 {
-  "name": "restaraunt-finder",
-  "homepage": "https://github.com/demiZhao/react-redux-saga-restaurant-finder",
+  "homepage": "https://demizhao.github.io/react-redux-saga-restaurant-finder",
+  "name": "react-redux-saga-restaurant-finder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
