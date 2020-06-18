@@ -31,3 +31,5 @@ Please describe yourself using JSON.
   "linkin_url": "https://www.linkedin.com/in/demi-zhao-88a251b5/",
   "stack": ["Javascript","React","Redux", "NodeJS", "CSS"]
   }
+  
+   ![Axe-a11y-report](a11y-violation.jpg)
