@@ -1,10 +1,8 @@
-### Answers
-
 *How long did you spend on the coding assignment? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
   *8 hour;
   *Validation, Error Handling, Style, i18n need improve;
 
-*What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
   *Redux Saga;
   *```javascript
   function\* actionWatcher() {
@@ -32,6 +30,8 @@
  ```
  
 ![Axe-a11y-analytics](a11y-analytics.jpg)
+
 ![lighthouse-audit](lighthouse-audit.jpg)
+
 ![lighthouse-audit](test-coverage.jpg)
 
