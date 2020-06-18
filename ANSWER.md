@@ -28,10 +28,15 @@
     "stack": ["Javascript","React","Redux", "NodeJS", "CSS"]
 }
 ```
- 
+6. Axe-a11y-analytics
+
 ![Axe-a11y-analytics](a11y-analytics.jpg)
 
+7. Lighthouse-audit
+
 ![lighthouse-audit](lighthouse-audit.jpg)
+
+8. Test-coverage
 
 ![lighthouse-audit](test-coverage.jpg)
 
